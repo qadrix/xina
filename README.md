@@ -1,6 +1,6 @@
-This is JavaScript implementation inspired by Ajax.
+<h2>This is JavaScript implementation inspired by Ajax.</h2>
 
-<h2>Use It</h2>
+<h3>Use It</h3>
 
 ```
 fetch('File Name or ID').then(data => {
