@@ -1,4 +1,4 @@
-XINA is not Ajax (XINA) is Licensed under the QADRIX Open Source License (QOSL) - 2025/05/20
+XINA is not Ajax (XINA) is Licensed under the QADRIX Open Source License (QOSL) - Copyright 2025 QADRIX
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so. Conditions under this license are also subject to change.
 
